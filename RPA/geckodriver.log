@@ -1,0 +1,1857 @@
+1691103807746	geckodriver	INFO	Listening on 127.0.0.1:56871
+1691103810817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileXRYr8l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691103811612	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691103811743	Marionette	INFO	Listening on port 56883
+WebDriver BiDi listening on ws://127.0.0.1:56872
+Read port: 56883
+1691103812018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56872/devtools/browser/72da8c19-a264-49ba-a76e-6db1d40efa6b
+1691105879507	geckodriver	INFO	Listening on 127.0.0.1:51032
+1691105882560	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilehw4OHn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691105882936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691105883044	Marionette	INFO	Listening on port 51047
+WebDriver BiDi listening on ws://127.0.0.1:51033
+Read port: 51047
+1691105883303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51033/devtools/browser/b4d19e04-ad09-42e0-8979-0c6f9a42fa98
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29236: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29292: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/g3YyfgUK0ye4_zZ0TZo1Byqq3c9tr_Gw3_pcFoz461A.js line 2 > eval line 5230 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691106347864	geckodriver	INFO	Listening on 127.0.0.1:53995
+1691106350918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofiletC3n9K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691106351241	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691106351348	Marionette	INFO	Listening on port 54004
+Read port: 54004
+WebDriver BiDi listening on ws://127.0.0.1:53996
+1691106351425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53996/devtools/browser/b2099fc6-121e-4f69-920a-4e3245c04558
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29236: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29292: unreachable code after return statement
+1691106356687	Marionette	INFO	Stopped listening on port 54004
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js, line 27: Script terminated by timeout at:
+Tb@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:27:103
+Ub@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:27:174
+jG@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:420:489
+WN@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:625:171
+rO@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:648:300
+yO@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202307270101/show_ads_impl_fy2021.js:651:312
+
+Dynamically enable window occlusion 1
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 30320, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115443912	geckodriver	INFO	Listening on 127.0.0.1:57529
+1691115446964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57530" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilexyFFLs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115447646	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115447769	Marionette	INFO	Listening on port 57540
+WebDriver BiDi listening on ws://127.0.0.1:57530
+Read port: 57540
+1691115448050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57530/devtools/browser/d4557285-aa88-47d1-b6bb-e61b167e7085
+[Parent 20608, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2124, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115562159	geckodriver	INFO	Listening on 127.0.0.1:57650
+1691115565211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilepXo7l4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115565538	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115565641	Marionette	INFO	Listening on port 57661
+WebDriver BiDi listening on ws://127.0.0.1:57651
+Read port: 57661
+1691115565888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57651/devtools/browser/6b725bbc-b6d6-4570-bce4-de9bcbbeb038
+[Parent 18788, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29140, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115585190	geckodriver	INFO	Listening on 127.0.0.1:57710
+1691115588243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileJsVjb5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115588575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115588700	Marionette	INFO	Listening on port 57721
+WebDriver BiDi listening on ws://127.0.0.1:57711
+Read port: 57721
+1691115589759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57711/devtools/browser/f4059be2-8fec-403a-b1d2-adcb116076aa
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29152: unreachable code after return statement
+JavaScript warning: https://www.worldometers.info/coronavirus/, line 29208: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691115620190	Marionette	INFO	Stopped listening on port 57721
+JavaScript warning: https://cdn.id5-sync.com/api/1.0/id5-api.js, line 7: Script terminated by timeout at:
+t.g@https://cdn.id5-sync.com/api/1.0/id5-api.js:7:4563
+c/this._handler<@https://cdn.id5-sync.com/api/1.0/id5-api.js:7:38996
+
+Dynamically enable window occlusion 1
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: blocklists/addons-bloomfilters list() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/sites-classification getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 32232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25712, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115688237	geckodriver	INFO	Listening on 127.0.0.1:57240
+1691115691273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileUWfZrr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115691588	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115691696	Marionette	INFO	Listening on port 57250
+WebDriver BiDi listening on ws://127.0.0.1:57241
+Read port: 57250
+1691115691866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57241/devtools/browser/6eea0b0a-b26d-4ec6-a23d-eb445581856c
+1691115713611	geckodriver	INFO	Listening on 127.0.0.1:57336
+1691115716666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileaDx7lI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115716984	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115717087	Marionette	INFO	Listening on port 57346
+WebDriver BiDi listening on ws://127.0.0.1:57337
+Read port: 57346
+1691115717255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57337/devtools/browser/63a84f0a-10fb-4dfc-bbb3-9c0d69eb88a9
+1691115742886	geckodriver	INFO	Listening on 127.0.0.1:57412
+1691115745917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile7iIGQC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115746226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115746328	Marionette	INFO	Listening on port 57422
+WebDriver BiDi listening on ws://127.0.0.1:57413
+Read port: 57422
+1691115746541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57413/devtools/browser/2afbe8c8-9027-4784-b757-ad0ae812e9da
+[Parent 13732, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20324, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115796918	geckodriver	INFO	Listening on 127.0.0.1:57499
+1691115799959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57501" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileHjAwdK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115800273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115800374	Marionette	INFO	Listening on port 57511
+WebDriver BiDi listening on ws://127.0.0.1:57501
+Read port: 57511
+1691115800541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57501/devtools/browser/7cb2ea00-81ae-409d-b98c-338a6934746b
+[Parent 7652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22120, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691115828436	geckodriver	INFO	Listening on 127.0.0.1:57563
+1691115831487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileGMETLp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691115831808	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691115831919	Marionette	INFO	Listening on port 57574
+Read port: 57574
+WebDriver BiDi listening on ws://127.0.0.1:57564
+1691115831998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57564/devtools/browser/453389fc-680b-46db-96f3-a03205b52b72
+1691115834726	Marionette	INFO	Stopped listening on port 57574
+Dynamically enable window occlusion 1
+[Parent 17808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 17808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691117738132	geckodriver	INFO	Listening on 127.0.0.1:58768
+1691117741166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileSZJMyK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691117741489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691117741593	Marionette	INFO	Listening on port 58777
+WebDriver BiDi listening on ws://127.0.0.1:58769
+Read port: 58777
+1691117741760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58769/devtools/browser/f68518a0-a9ef-497b-a2bc-1b44615b0df1
+1691117759156	geckodriver	INFO	Listening on 127.0.0.1:58828
+1691117762193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58829" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileeAcf63"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691117762534	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691117762635	Marionette	INFO	Listening on port 58838
+WebDriver BiDi listening on ws://127.0.0.1:58829
+Read port: 58838
+1691117762865	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58829/devtools/browser/5e1084c8-d0c4-4a53-a09a-299c38fa64a9
+1691118484937	geckodriver	INFO	Listening on 127.0.0.1:59374
+1691118487963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofiletsZgjq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691118488287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691118488389	Marionette	INFO	Listening on port 59384
+WebDriver BiDi listening on ws://127.0.0.1:59375
+Read port: 59384
+1691118488560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59375/devtools/browser/c47bec04-9bab-45f8-bc11-0ee961c18471
+[Parent 25428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25892, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1389 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6262 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2062 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1844 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691118537402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1691118545639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 25428, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25892, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691118655491	geckodriver	INFO	Listening on 127.0.0.1:59615
+1691118658555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59616" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilegauJCd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691118658887	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691118658990	Marionette	INFO	Listening on port 59625
+WebDriver BiDi listening on ws://127.0.0.1:59616
+Read port: 59625
+1691118659220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59616/devtools/browser/124afd05-4a88-4b8d-a18c-ab72b34644f6
+[Parent 1816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6418 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3980 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1168 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 393 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691118707933	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 1816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 1816, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 30804, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691118840727	geckodriver	INFO	Listening on 127.0.0.1:62192
+1691118843786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileX0qZid"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691118844124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691118844243	Marionette	INFO	Listening on port 62201
+WebDriver BiDi listening on ws://127.0.0.1:62193
+Read port: 62201
+1691118844489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62193/devtools/browser/574db313-ddb2-443b-9703-a88bce449800
+[Parent 34024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 4042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 34024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 34024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 34024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 34024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 29484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691118918048	geckodriver	INFO	Listening on 127.0.0.1:64062
+1691118921120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileZ2at9R"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691118921441	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691118921541	Marionette	INFO	Listening on port 64072
+WebDriver BiDi listening on ws://127.0.0.1:64063
+Read port: 64072
+1691118921747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64063/devtools/browser/a08d7189-013e-4a7c-bcc6-fa624358a97b
+[Parent 15980, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4308, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2096 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 55 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6369 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:718:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:594:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:718:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:594:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:334:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:334:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1691118971022	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal55834574849/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1691118980261	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal60129542145/layout22, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:173:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:450:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+[Parent 15980, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4308, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+[Parent 15980, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4308, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3349 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901940/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal12884901940/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:84:30\ninitialize@resource://devtools/client/fronts/inspector.js:73:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal12884901940/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:300:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+_getWalker@resource://devtools/client/fronts/inspector.js:84:30
+initialize@resource://devtools/client/fronts/inspector.js:73:12
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451005/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1663"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1663:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:837:28
+setDocShell/<@resource://devtools/server/actors/targets/window-global.js:384:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1663, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1711: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 513: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 374: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 513: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1663"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1663:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:837:28
+setDocShell/<@resource://devtools/server/actors/targets/window-global.js:384:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1663, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442451007/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:447:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 374))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: sendPacket@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:374:10
+send@resource://devtools/shared/transport/js-window-actor-transport.js:58:25
+send@resource://devtools/server/devtools-server-connection.js:96:20
+_sendEvent@resource://devtools/shared/protocol/Actor.js:73:15
+Actor/<@resource://devtools/shared/protocol/Actor.js:47:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2063:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1711: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 513: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 374: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:674:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:339:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1691119049691	geckodriver	INFO	Listening on 127.0.0.1:49997
+1691119052746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileeTnRLC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119053287	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119053388	Marionette	INFO	Listening on port 50007
+Read port: 50007
+WebDriver BiDi listening on ws://127.0.0.1:49998
+1691119053456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49998/devtools/browser/0699f54f-8118-4990-87cc-6092b23c0c36
+[Parent 10180, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 28004, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119079868	geckodriver	INFO	Listening on 127.0.0.1:50144
+1691119082932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile2dYL2D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119083255	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119083357	Marionette	INFO	Listening on port 50153
+WebDriver BiDi listening on ws://127.0.0.1:50145
+Read port: 50153
+1691119083518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50145/devtools/browser/3f04fb44-4c2b-4fd0-8778-09846135f13d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 20404, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 35816, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119221302	geckodriver	INFO	Listening on 127.0.0.1:50473
+1691119224336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50474" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileY9ptBL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119224649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119224753	Marionette	INFO	Listening on port 50484
+WebDriver BiDi listening on ws://127.0.0.1:50474
+Read port: 50484
+1691119224920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50474/devtools/browser/ed1ec50e-c695-48e6-bedf-4ffcd792e0b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 24524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9312, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119245990	geckodriver	INFO	Listening on 127.0.0.1:50611
+1691119249037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilew88zCx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119249360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119249462	Marionette	INFO	Listening on port 50620
+WebDriver BiDi listening on ws://127.0.0.1:50612
+Read port: 50620
+1691119249631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50612/devtools/browser/3537998a-8eb7-4fe6-b20a-8083cb545b06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 22208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5728, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 22208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5728, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 22208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 5728, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119342948	geckodriver	INFO	Listening on 127.0.0.1:50803
+1691119346005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50804" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileRtsqi2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119346323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119346426	Marionette	INFO	Listening on port 50813
+WebDriver BiDi listening on ws://127.0.0.1:50804
+Read port: 50813
+1691119346590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50804/devtools/browser/bfc2784c-3aad-467e-b7ea-8efc74a51a70
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 31504, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33524, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119403946	geckodriver	INFO	Listening on 127.0.0.1:51003
+1691119406994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile3IJf6K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119407326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119407429	Marionette	INFO	Listening on port 51012
+WebDriver BiDi listening on ws://127.0.0.1:51004
+Read port: 51012
+1691119407599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51004/devtools/browser/ec557fbd-f2d8-41bd-ab3c-80edd8860191
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+1691119414630	Marionette	INFO	Stopped listening on port 51012
+JavaScript warning: https://script.hotjar.com/modules.92ff9978854791af68a7.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.92ff9978854791af68a7.js:2:42044
+
+Dynamically enable window occlusion 1
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 35904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 32576, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119587276	geckodriver	INFO	Listening on 127.0.0.1:51232
+1691119590304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilea2ryOz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119590634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119590744	Marionette	INFO	Listening on port 51242
+WebDriver BiDi listening on ws://127.0.0.1:51233
+Read port: 51242
+1691119590974	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51233/devtools/browser/5ae13580-9b70-4a91-93a3-ad20228bb883
+[Parent 7344, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 34148, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 7249 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 7656 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691119615191	geckodriver	INFO	Listening on 127.0.0.1:60928
+1691119618232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileuwy1cu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119618562	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119618668	Marionette	INFO	Listening on port 60938
+Read port: 60938
+WebDriver BiDi listening on ws://127.0.0.1:60929
+1691119618746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60929/devtools/browser/2e8ce293-d2e3-40bb-affe-2b11c17072fa
+1691119623727	Marionette	INFO	Stopped listening on port 60938
+Dynamically enable window occlusion 1
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 24956, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 13176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119654031	geckodriver	INFO	Listening on 127.0.0.1:61014
+1691119657071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileWwEhns"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119657397	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119657509	Marionette	INFO	Listening on port 61023
+Read port: 61023
+WebDriver BiDi listening on ws://127.0.0.1:61015
+1691119657584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61015/devtools/browser/ae26c5e3-76ef-4567-83ad-87ff2109bd08
+1691119662574	Marionette	INFO	Stopped listening on port 61023
+JavaScript warning: https://script.hotjar.com/modules.92ff9978854791af68a7.js, line 2: Script terminated by timeout at:
+t<@https://script.hotjar.com/modules.92ff9978854791af68a7.js:2:42044
+
+Dynamically enable window occlusion 1
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12292, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 33160, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119703424	geckodriver	INFO	Listening on 127.0.0.1:61097
+1691119706451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61098" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile6vAip1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119706771	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119706878	Marionette	INFO	Listening on port 61107
+Read port: 61107
+WebDriver BiDi listening on ws://127.0.0.1:61098
+1691119706951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61098/devtools/browser/07b7f6a1-d624-475d-b9b5-cb5c3f0f7754
+1691119712474	Marionette	INFO	Stopped listening on port 61107
+Dynamically enable window occlusion 1
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 20568, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31588, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119752744	geckodriver	INFO	Listening on 127.0.0.1:61213
+1691119755778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61214" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilewy4OVK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119756095	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119756200	Marionette	INFO	Listening on port 61224
+WebDriver BiDi listening on ws://127.0.0.1:61214
+Read port: 61224
+1691119756369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61214/devtools/browser/cac7e4ca-1ed4-4edb-a413-a2842e4bf07c
+[Parent 17380, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25564, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691119883834	geckodriver	INFO	Listening on 127.0.0.1:61589
+1691119886855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilem2z3oH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691119887182	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691119887285	Marionette	INFO	Listening on port 61600
+WebDriver BiDi listening on ws://127.0.0.1:61590
+Read port: 61600
+1691119887455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61590/devtools/browser/d90b91d9-3b37-4223-8013-0098d9f55e2c
+[Parent 33012, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 2532, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 3331 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 27 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691120054869	geckodriver	INFO	Listening on 127.0.0.1:62040
+1691120057919	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileHP0bP0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120058251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120058371	Marionette	INFO	Listening on port 62052
+WebDriver BiDi listening on ws://127.0.0.1:62041
+Read port: 62052
+1691120058615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62041/devtools/browser/6774b3a8-b929-415e-a3b4-2ffdc45a2c9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 26448, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3192, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2636 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 4510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691120100786	geckodriver	INFO	Listening on 127.0.0.1:62296
+1691120103831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilegO8nmI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120104146	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120104253	Marionette	INFO	Listening on port 62306
+WebDriver BiDi listening on ws://127.0.0.1:62297
+Read port: 62306
+1691120104421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62297/devtools/browser/624b87f3-a6cc-488f-97f7-83c7db205964
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 35168, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 11572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2681 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691120160411	geckodriver	INFO	Listening on 127.0.0.1:62553
+1691120163453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileAtnAue"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120163772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120163878	Marionette	INFO	Listening on port 62562
+WebDriver BiDi listening on ws://127.0.0.1:62554
+Read port: 62562
+1691120164044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62554/devtools/browser/805bbaff-37a7-45a9-be4a-810c6b2a1d17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 1481 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 4250 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5356 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_241_3_0/ebStdBanner.js, line 137: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sdk.privacy-center.org/sdk/1112d6b30632020a118163abfca193ebd0bb70b0/modern/sdk.1112d6b30632020a118163abfca193ebd0bb70b0.js, line 2: Script terminated by timeout at:
+Gi@https://sdk.privacy-center.org/sdk/1112d6b30632020a118163abfca193ebd0bb70b0/modern/sdk.1112d6b30632020a118163abfca193ebd0bb70b0.js:2:14123
+sendPageview@https://sdk.privacy-center.org/sdk/1112d6b30632020a118163abfca193ebd0bb70b0/modern/sdk.1112d6b30632020a118163abfca193ebd0bb70b0.js:2:213083
+Wt/<@https://sdk.privacy-center.org/sdk/1112d6b30632020a118163abfca193ebd0bb70b0/modern/sdk.1112d6b30632020a118163abfca193ebd0bb70b0.js:2:316766
+
+1691120191494	Marionette	INFO	Stopped listening on port 62562
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 2492, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22644, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691120213727	geckodriver	INFO	Listening on 127.0.0.1:56408
+1691120216761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileIoYQtU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120217082	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120217191	Marionette	INFO	Listening on port 56419
+WebDriver BiDi listening on ws://127.0.0.1:56409
+Read port: 56419
+1691120217356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56409/devtools/browser/399c8000-1e03-40f6-b118-92c5237418ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 18896, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17628, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691120235460	geckodriver	INFO	Listening on 127.0.0.1:56599
+1691120238506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilePCJcl2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120238823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120238927	Marionette	INFO	Listening on port 56609
+WebDriver BiDi listening on ws://127.0.0.1:56600
+Read port: 56609
+1691120239134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56600/devtools/browser/a69504cc-f3b0-453b-ba23-bc393c1e3a73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 9964, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 36872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691120374829	geckodriver	INFO	Listening on 127.0.0.1:61296
+1691120377888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilexsqPBv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120378203	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120378304	Marionette	INFO	Listening on port 61304
+WebDriver BiDi listening on ws://127.0.0.1:61297
+Read port: 61304
+1691120378522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61297/devtools/browser/a6fbb3f4-8609-4c0c-8ae6-51c1f7736a79
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+[Parent 22480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 35424, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eltiempo.es."
+1691120691827	geckodriver	INFO	Listening on 127.0.0.1:61730
+1691120694868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile2GYKUb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120695188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120695293	Marionette	INFO	Listening on port 61744
+WebDriver BiDi listening on ws://127.0.0.1:61731
+Read port: 61744
+1691120696181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61731/devtools/browser/6be5cace-d0c3-4cf6-8262-0adc2beb046f
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Parent 35064, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22192, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691120751368	geckodriver	INFO	Listening on 127.0.0.1:61913
+1691120754428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61914" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileFEU5iD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120754741	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120754856	Marionette	INFO	Listening on port 61921
+WebDriver BiDi listening on ws://127.0.0.1:61914
+Read port: 61921
+1691120754927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61914/devtools/browser/d060b24d-bfb4-460c-807f-c2f1af0d5a27
+1691120937024	geckodriver	INFO	Listening on 127.0.0.1:62002
+1691120940073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilejvxZLL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120940384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120940487	Marionette	INFO	Listening on port 62010
+WebDriver BiDi listening on ws://127.0.0.1:62003
+Read port: 62010
+1691120940650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62003/devtools/browser/ae324851-d7d5-4aa6-93ac-39a1e7aed340
+[Parent 32400, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24956, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691120960172	geckodriver	INFO	Listening on 127.0.0.1:62053
+1691120963244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile28XFKn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691120963557	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691120963659	Marionette	INFO	Listening on port 62061
+WebDriver BiDi listening on ws://127.0.0.1:62054
+Read port: 62061
+1691120963828	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62054/devtools/browser/58c7a2dd-63b6-49a5-a83a-02dc2bdfe4c8
+1691121043599	geckodriver	INFO	Listening on 127.0.0.1:62131
+1691121046674	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62132" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileBodINx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121046994	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121047095	Marionette	INFO	Listening on port 62140
+WebDriver BiDi listening on ws://127.0.0.1:62132
+Read port: 62140
+1691121047261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62132/devtools/browser/f117ae87-a5a1-47c0-8a66-32cfa555b2fb
+[Parent 4200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 23484, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691121086010	geckodriver	INFO	Listening on 127.0.0.1:62200
+1691121089056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileVb3wcF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121089364	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121089467	Marionette	INFO	Listening on port 62208
+WebDriver BiDi listening on ws://127.0.0.1:62201
+Read port: 62208
+1691121089692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62201/devtools/browser/43a75378-3aab-4e3a-bb09-b2c1d5631da8
+1691121227050	geckodriver	INFO	Listening on 127.0.0.1:62632
+1691121230100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilenlO9iu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121230407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121230512	Marionette	INFO	Listening on port 62643
+WebDriver BiDi listening on ws://127.0.0.1:62633
+Read port: 62643
+1691121230721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62633/devtools/browser/a1750f60-efea-4913-91dd-fc5dc6773bda
+JavaScript error: https://demo.guru99.com/test/web-table-element.php, line 214: ReferenceError: timenow is not defined
+JavaScript error: https://imworld.rediff.com/moneyrediff/js_7/ws-global_15.min.js, line 4: TypeError: e is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5520 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 36532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 35472, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691121250585	geckodriver	INFO	Listening on 127.0.0.1:62741
+1691121253638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileCY8mSL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121253952	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121254059	Marionette	INFO	Listening on port 62750
+WebDriver BiDi listening on ws://127.0.0.1:62742
+Read port: 62750
+1691121254281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62742/devtools/browser/8be5d4fe-f6b2-47a4-a55a-f5ada2f838c1
+JavaScript error: https://demo.guru99.com/test/web-table-element.php, line 214: ReferenceError: timenow is not defined
+JavaScript error: https://imworld.rediff.com/moneyrediff/js_7/ws-global_15.min.js, line 4: TypeError: e is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 6807 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691121374980	geckodriver	INFO	Listening on 127.0.0.1:62962
+1691121378019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileubHwWN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121378326	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121378426	Marionette	INFO	Listening on port 62970
+WebDriver BiDi listening on ws://127.0.0.1:62963
+Read port: 62970
+1691121378642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62963/devtools/browser/592851be-7852-4fbe-b118-385fd8310eeb
+JavaScript error: https://demo.guru99.com/test/web-table-element.php, line 214: ReferenceError: timenow is not defined
+JavaScript error: https://imworld.rediff.com/moneyrediff/js_7/ws-global_15.min.js, line 4: TypeError: e is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 5056 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Parent 22196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 31308, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691121404337	geckodriver	INFO	Listening on 127.0.0.1:63072
+1691121407382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile7B3aAY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121407688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121407788	Marionette	INFO	Listening on port 63080
+WebDriver BiDi listening on ws://127.0.0.1:63073
+Read port: 63080
+1691121408016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63073/devtools/browser/9adae08e-488b-42dc-b297-72719016e5ca
+JavaScript error: https://demo.guru99.com/test/web-table-element.php, line 214: ReferenceError: timenow is not defined
+JavaScript error: https://imworld.rediff.com/moneyrediff/js_7/ws-global_15.min.js, line 4: TypeError: e is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fEcdG_B7pUQXAq0S1D0jGwFCW0QHifFmsZMHxcblrt4.js line 2 > eval line 2846 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1691121624463	geckodriver	INFO	Listening on 127.0.0.1:63206
+1691121627559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile6QIkDk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121627868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121628001	Marionette	INFO	Listening on port 63215
+WebDriver BiDi listening on ws://127.0.0.1:63207
+Read port: 63215
+1691121628230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63207/devtools/browser/faca5bf4-59ac-4e17-bf66-5d8c21a8e40a
+1691121725386	geckodriver	INFO	Listening on 127.0.0.1:63280
+1691121728434	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilevS1qAh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691121728744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691121728845	Marionette	INFO	Listening on port 63288
+WebDriver BiDi listening on ws://127.0.0.1:63281
+Read port: 63288
+1691121729018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63281/devtools/browser/46eee9e1-450d-470a-a087-355ef5df0ccc
+[Parent 37652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20020, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691122003897	geckodriver	INFO	Listening on 127.0.0.1:63367
+1691122006945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileX7NW1j"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691122007259	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691122007362	Marionette	INFO	Listening on port 63376
+WebDriver BiDi listening on ws://127.0.0.1:63368
+Read port: 63376
+1691122007527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63368/devtools/browser/9aa6a4ba-36ae-408e-acbd-e451d93f4170
+[Parent 10200, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37760, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691122270973	geckodriver	INFO	Listening on 127.0.0.1:63589
+1691122274049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilexbMuGj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691122274360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691122274464	Marionette	INFO	Listening on port 63599
+WebDriver BiDi listening on ws://127.0.0.1:63590
+Read port: 63599
+1691122274626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63590/devtools/browser/9a9bd3c4-63bf-4d4b-9551-b58064ccc16b
+[Parent 11708, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17512, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691122340193	geckodriver	INFO	Listening on 127.0.0.1:63687
+1691122343253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63688" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileStcqLX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691122343567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691122343668	Marionette	INFO	Listening on port 63698
+WebDriver BiDi listening on ws://127.0.0.1:63688
+Read port: 63698
+1691122343876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63688/devtools/browser/a8684425-9523-4e5b-943c-e4339b22ed4f
+[Parent 20820, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691122393070	geckodriver	INFO	Listening on 127.0.0.1:63783
+1691122396135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileD7NrTu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691122396447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691122396549	Marionette	INFO	Listening on port 63794
+WebDriver BiDi listening on ws://127.0.0.1:63784
+Read port: 63794
+1691122396711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63784/devtools/browser/a5d05508-fb40-4e44-bf3a-b3c2cf5ba1f4
+1691122878119	geckodriver	INFO	Listening on 127.0.0.1:64160
+1691122881183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilePkPktT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691122881494	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691122881600	Marionette	INFO	Listening on port 64170
+WebDriver BiDi listening on ws://127.0.0.1:64161
+Read port: 64170
+1691122881777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64161/devtools/browser/829f68e6-16d8-47be-9c38-27b22a6b4fc2
+[Parent 25520, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 15256, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691123238923	geckodriver	INFO	Listening on 127.0.0.1:64607
+1691123241996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64608" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileyXNzHZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123242360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123242480	Marionette	INFO	Listening on port 64622
+WebDriver BiDi listening on ws://127.0.0.1:64608
+Read port: 64622
+1691123242739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64608/devtools/browser/d4c2f1f6-906f-4ec8-84a5-b24a53248fac
+1691123300182	geckodriver	INFO	Listening on 127.0.0.1:64695
+1691123303221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileSMBCSD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123303531	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123303630	Marionette	INFO	Listening on port 64705
+WebDriver BiDi listening on ws://127.0.0.1:64696
+Read port: 64705
+1691123303847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64696/devtools/browser/b58e496c-71a3-42a3-8f82-8ddd89a2bc29
+1691123323983	geckodriver	INFO	Listening on 127.0.0.1:64763
+1691123327064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileVBazVn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123327376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123327476	Marionette	INFO	Listening on port 64773
+WebDriver BiDi listening on ws://127.0.0.1:64764
+Read port: 64773
+1691123327695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64764/devtools/browser/cc80002a-a9e1-4a81-bf94-b182d290d84d
+1691123405134	geckodriver	INFO	Listening on 127.0.0.1:64861
+1691123408178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilesMYG04"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123408486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123408586	Marionette	INFO	Listening on port 64871
+WebDriver BiDi listening on ws://127.0.0.1:64862
+Read port: 64871
+1691123408794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64862/devtools/browser/c6048d86-d0cb-4b01-8351-1f394edb09fc
+1691123431336	geckodriver	INFO	Listening on 127.0.0.1:64923
+1691123434388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64924" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilevSNNpQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123434702	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123434802	Marionette	INFO	Listening on port 64934
+WebDriver BiDi listening on ws://127.0.0.1:64924
+Read port: 64934
+1691123435018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64924/devtools/browser/c3667cdc-d46c-4deb-a60d-df3f1cc840db
+1691123459826	geckodriver	INFO	Listening on 127.0.0.1:65004
+1691123462864	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileD31VY3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123463177	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123463278	Marionette	INFO	Listening on port 65014
+WebDriver BiDi listening on ws://127.0.0.1:65005
+Read port: 65014
+1691123463487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65005/devtools/browser/b0899a89-a41c-49e9-bb16-f27f8c33682c
+1691123510866	geckodriver	INFO	Listening on 127.0.0.1:65088
+1691123513916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile6JJVrr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123514225	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123514325	Marionette	INFO	Listening on port 65097
+WebDriver BiDi listening on ws://127.0.0.1:65089
+Read port: 65097
+1691123514536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65089/devtools/browser/e38b62f6-9186-4ded-9cc7-63a8f1e845f1
+[Parent 17616, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17468, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691123544837	geckodriver	INFO	Listening on 127.0.0.1:65158
+1691123547899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile2taEUl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123548206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123548306	Marionette	INFO	Listening on port 65167
+WebDriver BiDi listening on ws://127.0.0.1:65159
+Read port: 65167
+1691123548523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65159/devtools/browser/64eaee4b-eb0e-4afe-8f49-c488d4d97149
+[Parent 25268, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 25088, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691123924538	geckodriver	INFO	Listening on 127.0.0.1:65452
+1691123927595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofiled7L1Bf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123927923	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123928028	Marionette	INFO	Listening on port 65462
+WebDriver BiDi listening on ws://127.0.0.1:65453
+Read port: 65462
+1691123928256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65453/devtools/browser/95ec7746-a1c3-4147-a76a-8ddae038504e
+[Parent 8232, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 23052, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691123962281	geckodriver	INFO	Listening on 127.0.0.1:65518
+1691123965358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileAp5wFh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691123965664	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691123965764	Marionette	INFO	Listening on port 65528
+WebDriver BiDi listening on ws://127.0.0.1:65519
+Read port: 65528
+1691123965977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65519/devtools/browser/7731aa03-bd03-4469-9bb7-a112ea47d0df
+1691124263948	geckodriver	INFO	Listening on 127.0.0.1:49364
+1691124267011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileZVpNPS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691124267323	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691124267428	Marionette	INFO	Listening on port 49374
+WebDriver BiDi listening on ws://127.0.0.1:49365
+Read port: 49374
+1691124267616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49365/devtools/browser/0e7c805d-a878-4457-b2b2-00eab45aa77f
+[Parent 33668, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14240, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691124532846	geckodriver	INFO	Listening on 127.0.0.1:49578
+1691124535926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile26UjAo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691124536236	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691124536337	Marionette	INFO	Listening on port 49588
+WebDriver BiDi listening on ws://127.0.0.1:49579
+Read port: 49588
+1691124536551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49579/devtools/browser/700e92ba-c5e6-4dbf-ad0b-7419f29f27b9
+[Parent 25012, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17200, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691124579498	geckodriver	INFO	Listening on 127.0.0.1:49658
+1691124582561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileBN9bu6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691124582868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691124582967	Marionette	INFO	Listening on port 49676
+WebDriver BiDi listening on ws://127.0.0.1:49659
+Read port: 49676
+1691124583172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49659/devtools/browser/72a4cfa1-5b73-4367-98c2-8be43453ec43
+[Parent 16944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 4872, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691124967641	geckodriver	INFO	Listening on 127.0.0.1:49926
+1691124970709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49927" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofile8o9GX3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691124971020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691124971120	Marionette	INFO	Listening on port 49936
+WebDriver BiDi listening on ws://127.0.0.1:49927
+Read port: 49936
+1691124971332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49927/devtools/browser/e9269d3a-fa2a-4542-b688-e1b8cd833145
+[Parent 26108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 37340, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691125453596	geckodriver	INFO	Listening on 127.0.0.1:50330
+1691125456663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofilesYcxZz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691125456982	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691125457081	Marionette	INFO	Listening on port 50340
+Read port: 50340
+WebDriver BiDi listening on ws://127.0.0.1:50331
+1691125457151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50331/devtools/browser/4912c32b-413c-4438-a071-1bd569ff5fe6
+1691125542904	geckodriver	INFO	Listening on 127.0.0.1:50428
+1691125545952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileKRHSzI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691125546258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691125546358	Marionette	INFO	Listening on port 50438
+WebDriver BiDi listening on ws://127.0.0.1:50429
+Read port: 50438
+1691125546567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50429/devtools/browser/038253ee-86c5-4eb7-87b5-7767f2f88a14
+[Parent 35824, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22876, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691125963422	geckodriver	INFO	Listening on 127.0.0.1:50925
+1691125966471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileQdz94E"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691125966794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691125966898	Marionette	INFO	Listening on port 50934
+WebDriver BiDi listening on ws://127.0.0.1:50926
+Read port: 50934
+1691125967064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50926/devtools/browser/35338f45-b5b5-4e70-8c7c-c2143367408c
+[Parent 2128, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 17828, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1691126006979	geckodriver	INFO	Listening on 127.0.0.1:51004
+1691126010047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\CAMILO~1\\AppData\\Local\\Temp\\rust_mozprofileaE5lbr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691126010365	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691126010471	Marionette	INFO	Listening on port 51013
+WebDriver BiDi listening on ws://127.0.0.1:51005
+Read port: 51013
+1691126010631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51005/devtools/browser/dd485a47-96bf-4cc4-824a-43209bb92a27
+[Parent 32928, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 24592, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
